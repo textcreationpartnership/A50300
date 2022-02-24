@@ -1,0 +1,584 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antiprobal-e, or A defence of the minister of Pensherst in a case between him and the Earl of Leycester in Michaelmas term, 1657.</title>
+            <author>Maudit, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50300</idno>
+            <idno type="STC">Wing M1327</idno>
+            <idno type="STC">ESTC R217676</idno>
+            <idno type="EEBO-CITATION">99829331</idno>
+            <idno type="PROQUEST">99829331</idno>
+            <idno type="VID">33768</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50300)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33768)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1918:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Antiprobal-e, or A defence of the minister of Pensherst in a case between him and the Earl of Leycester in Michaelmas term, 1657.</title>
+                  <author>Maudit, John.</author>
+               </titleStmt>
+               <extent>[4], 51, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T.R. for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first leaf is blank.</note>
+                  <note>By John Maudit.</note>
+                  <note>The first word in the title is in Greek characters.</note>
+                  <note>Earl of Leycester = Robert Sidney, Earl of Leicester. The minister of Pensherst = John Maudit.</note>
+                  <note>Imperfect; text has print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Leicester, Robert Sidney, --  Earl of, 1595-1677 --  Early works to 1800.</term>
+               <term>Maudit, John --  Early works to 1800.</term>
+               <term>Religion and law --  Great Britain --  Early works to 1800.</term>
+               <term>Reformation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33768:1" rendition="simple:additions"/>
+            <p>'ΑΝΤΙΠΡΟΒΑΑΗ, OR A DEFENCE <hi>OF THE</hi>
+Miniſter OF <hi>PENSHERST,</hi> In a Caſe between him and the Earl of <hi>Leyceſter</hi> in
+<hi>Michaelmas</hi> Term, 1657.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. R.</hi> for the Au<g ref="char:EOLhyphen"/>thor, 1660.</p>
+            <pb facs="tcp:33768:2" rendition="simple:additions"/>
+            <pb facs="tcp:33768:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="defense">
+            <pb facs="tcp:33768:3"/>
+            <pb n="1" facs="tcp:33768:3"/>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. OR A DEFENCE OF THE Miniſter of <hi>Penſherſt</hi> in a caſe
+between him and the Earl of <hi>Leyceſter</hi> in <hi>Michael<g ref="char:EOLhyphen"/>mas</hi> Term, 1657.</p>
+            <p>THE Miniſter of <hi>Penſherſt</hi> being ſet<g ref="char:EOLhyphen"/>led in that Recto<g ref="char:EOLhyphen"/>ry by the Authori<g ref="char:EOLhyphen"/>ty of
+the Committee of Par<g ref="char:EOLhyphen"/>liament, <hi>April</hi> 5. 1650. en<g ref="char:EOLhyphen"/>deavoured
+<pb n="2" facs="tcp:33768:4"/>in much faithful<g ref="char:EOLhyphen"/>neſs a holy Reformation there, that he might prepare a people
+for the Lord; in which work he found no en<g ref="char:EOLhyphen"/>couragement from the Earl of <hi>Leyceſter,</hi> but
+was put to much grief of heart by the Earls oppoſition: who be<g ref="char:EOLhyphen"/>gan a quarrel upon the
+Mi<g ref="char:EOLhyphen"/>niſters denyal of letting his Lordſhip the Gleab land, (as ſometime <hi>Ahab</hi> fell out
+with <hi>Naboth</hi> about the Vi<g ref="char:EOLhyphen"/>neyard) taking occaſion thereupon many wayes to oppreſs him
+and his afflicted family. The Lord giving the Miniſter patience to bear much hard uſage, he
+made many Chriſtian private Addreſſes to his Lord-ſhip to give his Lordſhip a right
+underſtanding of the wayes
+<pb n="3" facs="tcp:33768:4"/>of God he proceeded in in his Miniſtrations, and likewiſe entreating him to
+be ſenſible of his many great ſurferings; but no redreſs being given, and the cauſe of
+God ſuffer<g ref="char:EOLhyphen"/>ing much by his Lordſhips conteſts, and doing year af<g ref="char:EOLhyphen"/>ter year worſe and
+worſe, the Miniſter was preſt in con<g ref="char:EOLhyphen"/>ſcience, at length to apply the Word of God againſt
+the Earl by name for many pub<g ref="char:EOLhyphen"/>lick offences in the publick congregation, praying alſo for him
+that God would re<g ref="char:EOLhyphen"/>duce him from the evil of his wayes, whereby he had offended him and his choſen
+ones. This the Miniſter did upon conſcience of duty, re<g ref="char:EOLhyphen"/>ſpecting that of Saint <hi>Paul,
+Thoſe that ſin reprove before all,</hi>
+               <note place="margin">1 Tim 5.2</note> 
+               <hi>that others may
+fear.</hi> And
+<pb n="2" facs="tcp:33768:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:33768:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:33768:6"/>wholeſome pious rule of ho<g ref="char:EOLhyphen"/>ly <hi>Auguſtine, Si quid vitii in amico
+deprehender is</hi> (ſaith that Father) <hi>corripe occulte, ſi te non audierit, corripe
+pa<g ref="char:EOLhyphen"/>lam, ſunt enimbonae correpti<g ref="char:EOLhyphen"/>ones &amp; plerunque meliores quam tacita amicitia: &amp; ſi
+laedi ſe putet amicus, tu tamen corripe; tollerabiliora emm ſunt amici vulnera quam adu<g ref="char:EOLhyphen"/>lantium
+oſcula.</hi> If thou find (ſaith that Father) any fault in thy friend, blame him ſe<g ref="char:EOLhyphen"/>cretly,
+if he will not hear thee, blame him openly; for reproofes are good, and for the moſt part better
+then friendſhip that holds its peace; If thy friend com<g ref="char:EOLhyphen"/>plains thou wrongeſt him, yet
+notwithſtanding reprove him ſtill, for more tolera<g ref="char:EOLhyphen"/>ble are the wounds of a
+<pb n="5" facs="tcp:33768:6"/>friend then the kiſſes of a flatterer.</p>
+            <p>Indeed it fell out ſo, ac<g ref="char:EOLhyphen"/>cording to that word the Earl thinks himſelf wronged in his honour
+by the Miniſter, who by a chriſtian admonition endeavoured to repair it; for what could make
+more tru<g ref="char:EOLhyphen"/>ly for his honour then to turn him from ſin to God, and to waſh away that ſtain
+which was a blot, no badge of honour. The Earl there<g ref="char:EOLhyphen"/>fore commences a ſuit a<g ref="char:EOLhyphen"/>gainſt the
+Miniſter, and be<g ref="char:EOLhyphen"/>ing ſubtile in Law-ſuits ſur<g ref="char:EOLhyphen"/>priſes the Miniſter at a time when he
+expected no trou<g ref="char:EOLhyphen"/>ble, and eaſily runs him down becauſe he made little or no reſiſtance, but
+commended himſelf to him that judgeth righteouſly, the Lord know<g ref="char:EOLhyphen"/>ing
+<pb n="6" facs="tcp:33768:7"/>both his work, and the integrity of his heart there<g ref="char:EOLhyphen"/>in.</p>
+            <p>The words the Earl lay to the Miniſters charge, were theſe, that he ſhould ſay of the
+ſaid Earl, <hi>That he was a wicked man, a cruel Oppreſſor, and an enemie to
+Reformati<g ref="char:EOLhyphen"/>on.</hi>
+            </p>
+            <p>If the Miniſt had ſpoke theſe very words, might he not ſufficiently have proved the
+crime? let us ſcan the words, <hi>A cruel Oppreſſor;</hi> does his Lordſhip call theſe a
+horrid ſcandal, let it be a ſcandal worthy to be puniſhed by the Judges, and let my Lord for
+ever be guiltleſs of ſo horrid a crime; but what then dorh he ſay for him<g ref="char:EOLhyphen"/>ſelf for keeping
+back the Miniſters dues more or leſs
+<pb n="7" facs="tcp:33768:7"/>from year to year for eight years together? For a year or two his Lordſhip
+allows a ſmall part for tithes, for other years nothing: if tithes were not the Miniſters
+right, why did his Lordſhip pay a<g ref="char:EOLhyphen"/>ny? if they were his right, why did he not pay all? Is it not
+oppreſſion to with<g ref="char:EOLhyphen"/>hold 12 li. <hi>per an.</hi> for eight or ten years together from a
+Miniſter.</p>
+            <p>Again, Is it not oppreſſi<g ref="char:EOLhyphen"/>on to plant a Warren next to a Miniſters Gleab-land, and fence
+it on every ſide but where it lies to the gleab, whereby the Miniſter was damaged for eight
+years together by the gain of his Lordſhips Warren ten pound a year without any ſatisfaction or
+commiſera<g ref="char:EOLhyphen"/>tion.
+<pb n="8" facs="tcp:33768:8"/>This was the way in<g ref="char:EOLhyphen"/>deed to have the Vineyard when it was denyed, and rent free
+too.</p>
+            <p>Again, Was it not oppreſ<g ref="char:EOLhyphen"/>ſion to ſeize upon part of the Miniſters Gleab, to dig up and
+carry away trees from the Gleab at his Lordſhips pleaſure, contrary to all right and common
+juſtice, to arreſt the Miniſter and his ſervants cauſleſly (unleſs it were becauſe
+the Miniſter had too much patience, and would not be provoked to begin Law with the
+Op<g ref="char:EOLhyphen"/>preſſor) to vex, and worrie, and diſquiet him in the work of the Miniſtry. If the common
+Law of <hi>England</hi> (alas to much corrupted) will not account this Oppreſ<g ref="char:EOLhyphen"/>ſion, will not
+God declare
+<pb n="9" facs="tcp:33768:8"/>againſt it as horrible oppreſſi<g ref="char:EOLhyphen"/>on and violence? yea, and will not all good
+mens con<g ref="char:EOLhyphen"/>ſciences condemn and de<g ref="char:EOLhyphen"/>teſt it, if the like were done to themſelves? What is this
+mans conſcience made of, if it ſleep and acquit him as righteous after all this?</p>
+            <div type="section">
+               <head>And for an enemy to Re<g ref="char:EOLhyphen"/>formation.</head>
+               <p>If the Earl of <hi>Leyceſtor</hi> were not an enemy to the good work of Reformation
+endeavoured by the Mini<g ref="char:EOLhyphen"/>ſter, why drew he off, ſeeing that our Lord Chriſt declares, <hi>That
+he that is not for him, is against him?</hi> and why were thoſe that ſhunned the purifying of
+Gods or<g ref="char:EOLhyphen"/>dinances
+<pb n="10" facs="tcp:33768:9"/>admitted to the Table of the Lord ſo freely at his Lordſhips chappel? if his
+Lordſhip had to object againſt the way of the Goſ<g ref="char:EOLhyphen"/>pel offered to the Church by the Miniſter
+in writing, why did he not diſprove it? if his mouth was ſtopped, was he not then an enemy to
+that holy Reformation which he diſcouraged? yea, was not he an enemy to Reformation that ſent a
+Co<g ref="char:EOLhyphen"/>py of the Miniſters way and diſcipline to his Lawyers to ſee if their ſubtilty could
+pick our a Premunire of it? Will not the ſtones and the timber cry out of the wall and witneſs
+againſt ſuch re<g ref="char:EOLhyphen"/>pugnancy and enmity to Chriſt and the precious un<g ref="char:EOLhyphen"/>blamable way of Goſpel
+<pb n="11" facs="tcp:33768:9"/>worſhip? if theſe things do not evidence the crime which are but lightly
+touch<g ref="char:EOLhyphen"/>ed, worſe then theſe if God pleaſe to give time for in<g ref="char:EOLhyphen"/>quiry may be made to ap<g ref="char:EOLhyphen"/>pear,
+before the great day of the Lord come when he muſt look to be diſcovered before the world. But
+the Miniſter becauſe he applyed the word of God in the Congregation againſt the Earls ſin
+in other expreſſions, not theſe, therefore he plea<g ref="char:EOLhyphen"/>ded not guilty; but the Earl having got
+witneſs, and a Jury after his heart at <hi>Lent</hi> Aſſizes 1656. in <hi>Kent,</hi> Ver<g ref="char:EOLhyphen"/>dict
+was given for the Plan<g ref="char:EOLhyphen"/>tiffe, 500 li. damages: See yet more cruelty, cruel man, and yet more cruel
+Law! why? what did the
+<pb n="12" facs="tcp:33768:10"/>words deſerve that a Jury of men ſhould give ſuch damages upon them? The
+Lord chief Juſtice <hi>Glin</hi> pro<g ref="char:EOLhyphen"/>feſſed upon the Bench they were not ſo much as
+actio<g ref="char:EOLhyphen"/>nable at Common Law, and ſo not worth two pence, and muſt they be judged at 500
+<abbr>l.</abbr> that were not worth two pence? In Queen <hi>Maries</hi> days the Statute allowed
+but 100 li. upon thoſe that had ſpoken horrid forgeries and ſcandals againſt the King or
+Queen, and is 500 li. gi<g ref="char:EOLhyphen"/>ven for words againſt the Earl of <hi>Leyecſter,</hi> ſhall I ſay
+not ſcandalous? to the quick ſubverſion of an in<g ref="char:EOLhyphen"/>nocent Miniſter and family indeed, but who
+would judge thoſe words (of no pub<g ref="char:EOLhyphen"/>lick concernment) to a<g ref="char:EOLhyphen"/>mount
+<pb n="13" facs="tcp:33768:10"/>to the quick ſub<g ref="char:EOLhyphen"/>verſion of the Realm, as the Earl prerends in his
+de<g ref="char:EOLhyphen"/>claration? ſee how ſin grows till it be fully ripe; from Enmity to open conteſts, from
+open conteſts to open blood-ſhed, and devouring of Gods innocent people, as the Prophet
+<hi>Micah</hi> obſerves, <hi>Ye heads of</hi> Jacob <hi>and Peers of the houſe of</hi>
+Iſrael,<note place="margin">Mic. 3.1, 2, 3</note> 
+                  <hi>is it not for you to know judge<g ref="char:EOLhyphen"/>ment? who
+hate the good, and love the evil, who pluck off their skin from off them, and their fleſh from
+off their bones, who ſo eat the fleſh of my peo<g ref="char:EOLhyphen"/>ple, and flay the skin from off them, and they
+break their bones, and chop them in pieces as for the pot, and as fleſh within the Caldron,</hi>
+as if rage could never be ſatisfied.</p>
+               <pb n="14" facs="tcp:33768:11"/>
+               <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q>
+               <p>The juſt God ſaw all this, and records it againſt a day of vengeance, and ſays,
+<hi>v.</hi> 4. <hi>Then ſhall they cry unto the Lord, but he will not hear them: he will even
+bide his face from them at that time, as they have behaved them<g ref="char:EOLhyphen"/>ſelves ill in their
+doings.</hi>
+               </p>
+               <p>When the caſe was pon<g ref="char:EOLhyphen"/>dered before the Judges of the Upper Bench for an Ar<g ref="char:EOLhyphen"/>reſt of
+Judgement, the two Judges were divided upon the caſe, one for the Plan<g ref="char:EOLhyphen"/>tiffe, the others for the
+Defendant: ſo that there was an Arreſt for two terms, then at length is Juſtice
+<hi>Newdigate</hi> put upon the
+<pb n="15" facs="tcp:33768:11"/>bench, and the ſcales were turned, but the Judges ha<g ref="char:EOLhyphen"/>ving peruſed the
+cauſe, and ſeeing in their conſciences the grievouſneſs of it, ſent three meſſages
+to the Earl to ſtop him from taking out Execution, or moleſting the Miniſter upon the caſe:
+ne<g ref="char:EOLhyphen"/>vertheleſs the Earl that drove on ſo furiouſly hither<g ref="char:EOLhyphen"/>to, could not be perſwaded by the
+Judges to ſtop his courſe, but took out execution upon Execution, three Writs of <hi>Fieri
+facias</hi> within the ſpace of one year, and another Writ in the year following, ſezing at
+ſeveral times the Miniſters Corn, and Kine, and Horſes, Wood, Hay, Waggons, Bed and Bedding
+from under him and his Children, and ſervants, and
+<pb n="16" facs="tcp:33768:12"/>all the houſhold furniture he could light on, even to the poultry about the
+houſe, and things of the ſmalleſt conſequence that could adde a groat to the Inventory, and
+that in the bittereſt time of Winter, and yet all this is done by the Earl who would not be
+accounted cruel. This was an hour of darkneſs, but yet the Lord ordered it with ſuch unexpected
+unſeen, and admirable recompence of his love, as that though we walked in darkneſs, and ſaw
+no light of relief, yet we could truſt in the name of the Lord, and ſtay upon our God. We are
+troubled on every ſide, yet not diſtreſſed, we are perplexed, but not in deſpair,
+perſecuted, but not forſaken, caſt down, but
+<pb n="17" facs="tcp:33768:12"/>not deſtroyed, alwayes bear<g ref="char:EOLhyphen"/>ing about in the body the dy<g ref="char:EOLhyphen"/>ing of the Lord
+Jeſus, that the Life alſo of Jeſus might be made manifeſt in our bo<g ref="char:EOLhyphen"/>dy, for we which live
+are alwayes delivered unto death for Jeſus ſake, that the life alſo of Jeſus might be made
+manifeſt in our mortal fleſh.</p>
+               <p>This was the firſt caſe wherein the Peerage en<g ref="char:EOLhyphen"/>joyed their priviledges after the act of the
+Common-wealth which took away the houſe of Peers; and muſt this be the firſt caſe
+where<g ref="char:EOLhyphen"/>upon thoſe priviledges are built again that were in ſo many Preſidents laid aſide?
+Muſt a Miniſter for reprove<g ref="char:EOLhyphen"/>ing of ſin, and his whole fa<g ref="char:EOLhyphen"/>mily alſo, be plundred and
+<pb n="18" facs="tcp:33768:13"/>deſtroyed to bear up the un<g ref="char:EOLhyphen"/>ſupportable burthen of this unprofitable
+greatneſs; there was cruelty enough before without Law, and muſt there be much more miſchief
+framed by a Law? For ever let the Plantiffe be acquitted, and his cruelty not made mention of in
+regard of the tranſcendent cruelty of ſuch Law. O ye Courts of Ju<g ref="char:EOLhyphen"/>ſtice, ye Thrones of them
+that are called Gods, is this to do like God? God ſaith, <hi>Relieve the oppreſſed, judge the
+Fatherleſs, plead for the widdow;</hi> and do you cruſh the oppreſſed, condemn and
+deſtroy the innocent, &amp; out<g ref="char:EOLhyphen"/>vie in cruelty the man that is blemiſhed before you for
+cruelty?</p>
+               <p>Ye Jurats upon whoſe ac<g ref="char:EOLhyphen"/>count
+<pb n="19" facs="tcp:33768:13"/>God will ſet theſe da<g ref="char:EOLhyphen"/>mages, how could you think in your conſciences 500
+<abbr>li.</abbr> a juſt proportion for words; for words not ſo much as ac<g ref="char:EOLhyphen"/>tionable in the
+opinion of the Judges? would you think it juſt that others ſhould mere the the meaſure to you
+again? can you look upon your Verdict, and hear what hath been done upon a ſpoil<g ref="char:EOLhyphen"/>ed Family, and
+not ſay, we are verily more guilty then the cruel Oppreſſor.</p>
+               <p>Ye Honourable Judges, profeſſed Patrons of the afflicted, who ſhould have been afflicted
+in the afflicti<g ref="char:EOLhyphen"/>ons of <hi>Joſeph,</hi> and as <hi>Judah</hi> have reſcued him; you that could
+not imagine any cru<g ref="char:EOLhyphen"/>elty under a title of honor, or think that your meſſages
+<pb n="20" facs="tcp:33768:14"/>would be of leſs acceptance and power with the Plan<g ref="char:EOLhyphen"/>tiffe then your
+ſentence; have not you cauſe alſo to ſay, as <hi>Joſephs</hi> brethren, Verily we are
+guilty con<g ref="char:EOLhyphen"/>cerning our brother in that we ſaw the Anguiſh of his ſoul, when he beſought us,
+and we would not hear.</p>
+               <p>The Lord give you to know, and to have true re<g ref="char:EOLhyphen"/>morſe for what you have done, that it may not
+be laid to your charge in the great day of the Lord.</p>
+               <p>You had little reaſon for what you have done, let us come cloſer to the matter, and prove
+it, that you had no Law neither.</p>
+               <p>I ſhall reaſon it logically and plainly thus,</p>
+               <p>That Judgement is unjuſt
+<pb n="21" facs="tcp:33768:14"/>where there is no Law to warrant it,</p>
+               <p>But this Judgement hath no Law to warrant it,</p>
+               <p>
+                  <hi>Ergo,</hi> This Judgement is unjuſt:</p>
+               <p>If there were any Law tranſgreſſed that could give occaſion for ſuch a Judge<g ref="char:EOLhyphen"/>ment,
+then it muſt be ei<g ref="char:EOLhyphen"/>ther the Common Law or Statute Law (for no other Law is pretended to by the
+Plantiffe) but neither of theſe is tranſgreſſed, there<g ref="char:EOLhyphen"/>fore there is no Law
+tranſ<g ref="char:EOLhyphen"/>greſſed to ground the judge<g ref="char:EOLhyphen"/>ment upon, and ſo it muſt be confeſſed to be
+unjuſt.</p>
+               <p>The Common Law can be no ground for this judge<g ref="char:EOLhyphen"/>ment, for it was yielded by the Judges (the Lord
+Chief Juſtice <hi>Glin</hi> acknowledging
+<pb n="22" facs="tcp:33768:15"/>it in open Court) that the words alledged would not bear action at Common
+Law.</p>
+               <p>If the Statute Law be tranſgreſſed (which were moſt abſurd to ſay, that words which
+by the Com<g ref="char:EOLhyphen"/>mon Law are not actionable, ſhould be counted by the Statute Law to be horrible
+forgeries, ſubverting the Common-wealth; by com<g ref="char:EOLhyphen"/>mon Law not worth a far<g ref="char:EOLhyphen"/>thing, and by Statute Law
+ſet up to 500 li.) but I ſay, if any Statute of this Na<g ref="char:EOLhyphen"/>tion be violated, the ho<g ref="char:EOLhyphen"/>nourable
+Plantiffe ought to have mentioned it, and con<g ref="char:EOLhyphen"/>cluded his Declaration <hi>Sub forma Statuti;</hi>
+but the Plan<g ref="char:EOLhyphen"/>tiffe doth not mention any Statute Law tranſgreſſed,
+<pb n="23" facs="tcp:33768:15"/>hereupon the Judges of the Upper Bench were divided in their opinions: Judge
+<hi>Warberton</hi> judging the De<g ref="char:EOLhyphen"/>claration void upon this de<g ref="char:EOLhyphen"/>fault, though the Lord chief
+Juſtice <hi>Glin</hi> allowed it.</p>
+               <p>But let this fault paſs, and let it be ſuppoſed that the Action be intended upon the
+Statute of <hi>Richard</hi> the ſecond: we ſhall through Gods help prove that the words
+alledged by the ho<g ref="char:EOLhyphen"/>nourable Plantiffe cannot be concluded within that Sta<g ref="char:EOLhyphen"/>tute, and thererefore
+there is no Law to warrant it.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="statute">
+                           <pb n="24" facs="tcp:33768:16"/>
+                           <head>The Statute runnes thus.</head>
+                           <head type="sub">Anno ſecundo <hi>Rich</hi> ſecundi, <hi>Cap. 5.</hi>
+                           </head>
+                           <p>
+                              <hi>FOR Deviſors of falſe News, and of horri<g ref="char:EOLhyphen"/>ble and falſe lyes, of Pre<g ref="char:EOLhyphen"/>lates, Dukes,
+Earls, Ba<g ref="char:EOLhyphen"/>rons, and other Nobles, and great men of the Realm, and alſo of the Chancellour
+Treaſurer, Clark of the privy ſeal, Steward of the Kings houſe,
+<pb n="25" facs="tcp:33768:16"/>Juſtice of the one Bench, or of the other, and of o<g ref="char:EOLhyphen"/>ther great Officers of
+the Realm; of things which by the ſaid Prelates, Lords, Nobles and Officers afore<g ref="char:EOLhyphen"/>ſaid were
+never ſpoken, done nor thought, in great ſlander of the ſaid Prelates, Lords and Officers,
+whereby De<g ref="char:EOLhyphen"/>bates and Diſcords might ariſe between the ſaid Lord, or betwixt the Lords and
+Commons, (which God for<g ref="char:EOLhyphen"/>bid) and whereof great pe<g ref="char:EOLhyphen"/>ril and miſchief might come to all the Realm,
+and quick ſubverſion and destruction of the ſaid Realm, if due remedy be not
+provided.</hi>
+                           </p>
+                           <p>
+                              <hi>It is ſtraitly defended
+<pb n="26" facs="tcp:33768:17"/>upon grievous pain for to eſchew the ſaid damages and perils, that from
+henceforth none be ſo hardy, to deviſe, ſpeak or tell any falſe news, lyes, or other ſuch
+falſe things of Prelates, Lords, and of other aforeſaid, whereof diſcord, or any ſlander
+might ariſe within the ſame Realm: and he that doth the ſame ſhall incurre and have the
+pain another time ordained thereof by the Statute of</hi> Weſtmin<g ref="char:EOLhyphen"/>ſter, &amp;c.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <pb n="27" facs="tcp:33768:17"/>
+               <p>Now the Argument we draw to prove that this Statute can<g ref="char:EOLhyphen"/>not warrant the judgement, bears three
+parts, firſt to prove that the words are not concluded <hi>Sub ſubjecto Statuti,</hi> within
+the Subject of that Statute.</p>
+               <p>Secondly, That the words are not concluded <hi>Sub ma<g ref="char:EOLhyphen"/>teria Statuti,</hi> within the
+<hi>Mat<g ref="char:EOLhyphen"/>ter</hi> of the Statute.</p>
+               <p>Thirdly, That the words are not concluded <hi>Sub fine Statuti,</hi> within the <hi>End</hi> of
+the Statute.</p>
+               <p>That we may not carrie forth this diſpute into a vo<g ref="char:EOLhyphen"/>lumne, we ſhall inſiſt only upon the
+firſt of theſe, That the words are not compre<g ref="char:EOLhyphen"/>hended within the <hi>Subject</hi> of that
+Statute, and con<g ref="char:EOLhyphen"/>tract all into five Argu<g ref="char:EOLhyphen"/>ments:</p>
+               <pb n="28" facs="tcp:33768:18"/>
+               <p>Its proved thus, if the honourable Plantiffe be not a perſon comprehended un<g ref="char:EOLhyphen"/>der the
+<hi>Subject</hi> of that Sta<g ref="char:EOLhyphen"/>tute, then are not the words comprehended under the Subject of that
+Statute: now that the Plantiffe is not a per<g ref="char:EOLhyphen"/>ſon comprehended under the Subject of that Statute,
+I crave leave to argue thus,</p>
+               <p>If he be not qualified as the Statute ſuppoſes, then is not he a perſon compre<g ref="char:EOLhyphen"/>hended
+under the Subject of that Statute: here therefore is the main point, Whether the Earl be qualified,
+ſo as that Statute doth ſuppoſe to make him <hi>Subjestum capax,</hi> a Subject capable of
+the pri<g ref="char:EOLhyphen"/>viledge of that Statute; for if he be not, he cannot have a priviledge by this Statute:
+<pb n="29" facs="tcp:33768:18"/>Let us therefore fairly de<g ref="char:EOLhyphen"/>bate the point, and we rea<g ref="char:EOLhyphen"/>ſon thus;</p>
+               <p>The perſons ſpecified in the Statute are Barons of the Realm, as the firſt words import,
+<hi>Barons, Nobles, and great men of the Realm:</hi> Now thoſe that were Ba<g ref="char:EOLhyphen"/>rons of the Realm,
+were not titulary Barons, but Par<g ref="char:EOLhyphen"/>lamentary Barons.</p>
+               <p>But the Earl of <hi>Leyceſter</hi> is no ſuch Parliamentary Ba<g ref="char:EOLhyphen"/>ron, as the Act of the
+Com<g ref="char:EOLhyphen"/>mon-wealth for aboliſhing the houſe of Lords inti<g ref="char:EOLhyphen"/>mates; therefore by what right can his
+Lordſhip claim the priviledge of this Sta<g ref="char:EOLhyphen"/>tute?</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="Act">
+                           <pb n="30" facs="tcp:33768:19"/>
+                           <head>The Act for aboliſh<g ref="char:EOLhyphen"/>ing the Houſe of Peers.</head>
+                           <p>THe Commons of <hi>En<g ref="char:EOLhyphen"/>gland</hi> aſſembled in Parliament, finding by too long experienee,
+that the Houſe of Lords is uſeleſs and dangeruus to the people of <hi>England</hi> to be
+continu<g ref="char:EOLhyphen"/>ed, have thought fit to or<g ref="char:EOLhyphen"/>dain and enact; and be it ordained and enacted by this preſent
+Parliament, and by the Authority of the
+<pb n="31" facs="tcp:33768:19"/>ſame, that from hence forth the Houſe of Lords in Par<g ref="char:EOLhyphen"/>liament, ſhall be,
+and is hereby wholly aboliſhed, and taken away. And that the Lords ſhall not from hence forth
+meet or ſit in the ſaid houſe, called the Lords houſe, or in any other houſe or place
+whatſoever, as a houſe of Lords, nor ſhall ſit, vote, advice, adjudge, or determine of any
+matter or thing whatſoever as a houſe of Lords in Parlia<g ref="char:EOLhyphen"/>ment.</p>
+                           <p>Nevertheleſs it is here<g ref="char:EOLhyphen"/>by declared, that neither ſuch Lords as have de<g ref="char:EOLhyphen"/>meaned themſelves
+with
+<pb n="32" facs="tcp:33768:20"/>Honour, Courage and Fide<g ref="char:EOLhyphen"/>lity to the Commen-wealth, nor their Poſterities who
+ſhall continue ſo, ſhall be excluded from the Publicke Councells of the Nation, but ſhall
+be admitted hereunto, and have their free vote in Parliament if they ſhall be thereunto elected
+as other Perſons of interest, elected and qualified thereunto, ought to have. And be it further
+ordained and ena<g ref="char:EOLhyphen"/>cted by the authority afore<g ref="char:EOLhyphen"/>ſaid, that no Peer of this Land, not being elected,
+qualified and ſitting in Par<g ref="char:EOLhyphen"/>liament as aforeſaid, ſhall claim have or make uſe of a<g ref="char:EOLhyphen"/>ny
+priviledges of Parliament
+<pb n="33" facs="tcp:33768:20"/>either in relation to his per<g ref="char:EOLhyphen"/>ſon, quality, or Eſtate, any Law, uſage or
+cuſtome to the contrary notwithſtanding:</p>
+                           <closer>
+                              <date>
+                                 <hi>Die Lunae 19.</hi> Martii <hi>1648.</hi>
+                              </date>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <pb n="34" facs="tcp:33768:21"/>
+               <p>If any will be ſo perverſe and ſo much oppoſite to ſenſe, as to ſay, the Earl may
+claim the priviledge of this Statute, though he have nothing but an empty Title (if any ſuch be
+left him whoſe Creation ſtands not in a Title, but in a work and capacity to ſerve the State)
+againſt this we ſhall argue from the verie origi<g ref="char:EOLhyphen"/>nal Creation of Parliamen<g ref="char:EOLhyphen"/>tary Barons, which
+it recor<g ref="char:EOLhyphen"/>ded thus,</p>
+               <p>
+                  <hi>Henry</hi> the third out of the multitude of thoſe Ba<g ref="char:EOLhyphen"/>rons that were in his time, whereof
+ſome were ſediti<g ref="char:EOLhyphen"/>eus, choſe out a certain number of good men, and by Writ called them to
+Parliamentary Councels:
+<pb n="35" facs="tcp:33768:21"/>This Rule <hi>Edward</hi> the firſt and his Succeſſors kept to, and
+thereupon they alone were accounted <hi>Barones reg<g ref="char:EOLhyphen"/>ni</hi> or Barons of the Realm. Afterwards
+<hi>Richard</hi> the ſe<g ref="char:EOLhyphen"/>cond, and ſome Kings after him created Barons by their patent and
+putting on of Robes, and both theſe forms were in uſe whiles that or<g ref="char:EOLhyphen"/>der and conſtitution
+held, and thoſe that are thus cre<g ref="char:EOLhyphen"/>ated Barons, are called <hi>Baro<g ref="char:EOLhyphen"/>nes Parliamenti</hi> or
+<hi>Barones Regni,</hi> to difference them from others that were only nominal or titulary
+Barons.</p>
+               <p>Theſe Parliamentary Ba<g ref="char:EOLhyphen"/>rons had not only a meer Title or name, but were all of them by birth
+Peers of the Realm, <hi>Et Conſili<g ref="char:EOLhyphen"/>arii nati,</hi> and were created
+<pb n="36" facs="tcp:33768:22"/>by the Kings Writ <hi>Ad tra<g ref="char:EOLhyphen"/>ctandum de arduis regni ne<g ref="char:EOLhyphen"/>gotiis &amp;
+conſilium de iis im<g ref="char:EOLhyphen"/>pendendum.</hi> Now to theſe belonged the priviledge to be judged by their
+Peers, to judge upon their Faith and honour, not upon oath to be beheaded for crimes de<g ref="char:EOLhyphen"/>ſerving
+death, to be free from Arreſts and the pri<g ref="char:EOLhyphen"/>viledge granted by the Sta<g ref="char:EOLhyphen"/>tute of <hi>Richard</hi>
+the ſecond, Now hence the Argu<g ref="char:EOLhyphen"/>ment holds firm; that if not titulary Barons but Par<g ref="char:EOLhyphen"/>liamentary
+Barons only, ac<g ref="char:EOLhyphen"/>cording to the firſt conſtitu<g ref="char:EOLhyphen"/>tion were honoured with theſe Priviledges, when
+any Baron ceaſes to be Parlia<g ref="char:EOLhyphen"/>mentary, his privildges muſt ceaſe.</p>
+               <p>To ſay therefore that
+<pb n="37" facs="tcp:33768:22"/>meerly <hi>titular</hi> Barons are capable of this priviledge, were to ſay,
+that <hi>Henry</hi> the third when he inſtituted this Order of <hi>Parliamentary Ba<g ref="char:EOLhyphen"/>ons,</hi> in
+contradiſtiction to o<g ref="char:EOLhyphen"/>ther Barons gave both alike priviledges, and ſo as amply honoured the
+ſeditious as the moſt truſty and faithfull, which were the greateſt ab<g ref="char:EOLhyphen"/>ſurdity that could
+be impo<g ref="char:EOLhyphen"/>ſed; a thing contrary to the Rules and grounds of true honour.</p>
+               <p>The ſecond Argument to prove that the Earl is not a Subject qualified, as that Statute
+imports, may be of<g ref="char:EOLhyphen"/>fered from well grounded reaſon; thus,</p>
+               <p>When the ground of a
+<pb n="38" facs="tcp:33768:23"/>Priviledge is taken away, needs muſt it be conceived the priviledge it ſelf
+is there<g ref="char:EOLhyphen"/>with taken away; but the ground of this priviledge is taken away, <hi>Ergo.</hi>
+               </p>
+               <p>For the minor propoſition. The priviledge conferred by Statute upon Nobles, Barons and Peers
+above ordinary ſort of men, muſt needs have its ground <hi>in that high capa<g ref="char:EOLhyphen"/>city and native
+right the No<g ref="char:EOLhyphen"/>bles were inveſted with to ſerve the Common-wealth in more eminent manner then
+or<g ref="char:EOLhyphen"/>dinary men;</hi> and to evince this, that this was indeed the ground of that privi<g ref="char:EOLhyphen"/>ledge,
+therefore great Offi<g ref="char:EOLhyphen"/>cers of ſtate about the King, who were no Peers, yet of great
+uſefulneſs, are privi<g ref="char:EOLhyphen"/>ledged alſo by this Statute as
+<pb n="39" facs="tcp:33768:23"/>well as Lords and Nobles of the Land; it being thought meet that men of eminent
+ſervice above other men ſhould be endowed with priviledges above the com<g ref="char:EOLhyphen"/>mon ſort of men: but
+now this ground fails upon the a<g ref="char:EOLhyphen"/>boliſhing the houſe of Lords, their high capacity for pub<g ref="char:EOLhyphen"/>lick
+ſervice being taken a<g ref="char:EOLhyphen"/>way, how can it be there<g ref="char:EOLhyphen"/>fore but the priviledge alſo muſt fail with
+it?</p>
+               <p>Shall my Lord the Plain<g ref="char:EOLhyphen"/>tiffe be in a capacity by a priviledge to undoe his poor neighbours, and
+not in a ca<g ref="char:EOLhyphen"/>pacity to preſerve them? or can it be imagined that the Parliament have took a<g ref="char:EOLhyphen"/>way
+from Peerage its chief power and capacity to do good, and left nothing but
+<pb n="40" facs="tcp:33768:24"/>a power to do hurt, a ſting to wound, but no balm to heal? God forbid: till
+then the plantiffe be re-inſtated in ſuch a capacity for pub<g ref="char:EOLhyphen"/>lick high ſervice, as is meet to
+be a ground for ſo high a priviledge, let him forbear to aſſume it, for I think no man will
+ſee reaſon for it.</p>
+               <p>Can there be heat in a Chimny when the fire is put out? or water in the Channel when the
+fountain is dried up; or light in the horizon, when the Sun is gone down? or a houſe re<g ref="char:EOLhyphen"/>main
+ſtanding when the foundation is took away? no more can a priviledge remain when the reaſon or
+ground thereof is aboliſh<g ref="char:EOLhyphen"/>ed.</p>
+               <pb n="41" facs="tcp:33768:24"/>
+               <p>The third Argument, <hi>A cauſa finali,</hi> from the final cauſe or end ſpecified in the
+Statute, whereupon this priviledge was given the Nobles, I reaſon thus, If the end or final
+cauſe for which this priviledge was granted the Peers be fru<g ref="char:EOLhyphen"/>ſtrated, the priviledge muſt be
+alſo fruſtrated, but the end for which this privi<g ref="char:EOLhyphen"/>ledge was granted, the Peers ſeems to be
+fruſtrated; <hi>Ergo,</hi> this priviledge it ſelf muſt fall, and be fruſtrated alſo. Let
+us then examine the end wherefore this pri<g ref="char:EOLhyphen"/>viledge was given the No<g ref="char:EOLhyphen"/>bles, and 'tis expreſt
+plainly in the Statute, <hi>To prevent diſturbance and quick ſub<g ref="char:EOLhyphen"/>verſion of the
+Common-wealth.</hi> Scandals of a high nature
+<pb n="42" facs="tcp:33768:25"/>and horrible forgeries that tend <hi>Per ſe</hi> to make Diviſions between
+Nobles, being laid upon any one of the Nobles of the Realm, it was thought thereby the whole
+Com<g ref="char:EOLhyphen"/>mon-wealth might quickly be diſturbed and diſtracted; and therefore ſuch an Of<g ref="char:EOLhyphen"/>fence was
+to be ſeverely puniſhed.</p>
+               <p>Its true indeed, as <hi>Ari<g ref="char:EOLhyphen"/>ſtotle</hi> obſerves, it fell out in <hi>Syracuſe</hi>
+conteſts between two chief Magiſtrates, there endangered the ruine of the whole Common-wealth:
+and ſo it was ſup<g ref="char:EOLhyphen"/>poſed by this Statute, that conteſts between the No<g ref="char:EOLhyphen"/>bles and perſons in
+great office, might haply en<g ref="char:EOLhyphen"/>danger the Common-wealth by civil wars, and
+<pb n="43" facs="tcp:33768:25"/>therefore to prevent ſuch differences apt to be fo<g ref="char:EOLhyphen"/>mented by falſe reports,
+carried to and fro to incenſe the ſpirits of great men one againſt the other: there<g ref="char:EOLhyphen"/>fore
+<hi>I</hi> ſay was this Statute made.</p>
+               <p>But now that the houſe of Lords is aboliſhed, and the Peers ceaſe to be chief Senators and
+Officers of State, and have no ſuch publick truſt as then, the danger is not now as then; and
+therefore no ground for the priviledge to be now as then.</p>
+               <p>The fourth Argument from want of Preſidents in the caſe.</p>
+               <p>Was there ever any com<g ref="char:EOLhyphen"/>mon-wealth,
+<pb n="44" facs="tcp:33768:26"/>or any age of the world wherein men of great Titles, and little or no uſe in
+publick admini<g ref="char:EOLhyphen"/>ſtrations enjoyed, ſuch a priviledge as this is above thoſe that in vertue,
+wealth and ſerviceableneſs to the State, do far exceed them.</p>
+               <p>Or is there any one pre<g ref="char:EOLhyphen"/>ſident upon Engiſh Re<g ref="char:EOLhyphen"/>cords, ſince the Act of the Common-wealth,
+for aboliſhing the houſe of Lords, to prove that any one of the Nobles had their priviledges
+allowed them before this caſe? The Lord <hi>Arundel,</hi> Lord <hi>Shandois,</hi> and others it
+ſeems had not their priviledge (though deſired) granted them, and what reaſon that the Earl
+of <hi>Leyceſter</hi> only ſhould have
+<pb n="45" facs="tcp:33768:26"/>his priviledge granted him? If the old priviledges be<g ref="char:EOLhyphen"/>long to all Peers, why
+were they not granted o<g ref="char:EOLhyphen"/>thers? If they belong to none, why are they given the Earl of
+<hi>Leyceſter?</hi> Surely either other of the Nobles, have had much wrong, or this man hath more
+then his right.</p>
+               <p>The fifth Argument, to prove that one that ceaſes to be a Parliamentary Ba<g ref="char:EOLhyphen"/>ron, is no meet
+ſubject for the priviledge which the Statute of <hi>Richard</hi> the ſe<g ref="char:EOLhyphen"/>cond allows, may be
+drawn from the Act of the Com<g ref="char:EOLhyphen"/>mon-wealth in this man<g ref="char:EOLhyphen"/>ner.</p>
+               <pb n="46" facs="tcp:33768:27"/>
+               <p>THE giving Privi<g ref="char:EOLhyphen"/>ledges to the Peers by ſitting in Par<g ref="char:EOLhyphen"/>liament, argues they had not them
+before up<g ref="char:EOLhyphen"/>on account of their Ti<g ref="char:EOLhyphen"/>tle; for what need hath a man to have that gi<g ref="char:EOLhyphen"/>ven him, which he
+hath already of his own? Or what priviledges doth the Act give the Lords by ſitting in
+Parliament, if they had better with<g ref="char:EOLhyphen"/>out ſitting?</p>
+               <p>Now by the Act of <hi>March</hi> 19. 1648. it is granted that Peers quali<g ref="char:EOLhyphen"/>fied and elected to
+ſit in
+<pb n="47" facs="tcp:33768:27"/>Parliameent, ſhall have the priviledges of Par<g ref="char:EOLhyphen"/>liament, both to their
+<hi>Perſon, Quality, and E<g ref="char:EOLhyphen"/>ſtate, and not otherwiſe.</hi>
+               </p>
+               <p>What are thoſe pri<g ref="char:EOLhyphen"/>viledges? If the ordi<g ref="char:EOLhyphen"/>nary priviledges of Par<g ref="char:EOLhyphen"/>liament, then they had no
+more priviledge then the reſt of the Com<g ref="char:EOLhyphen"/>mons of <hi>England;</hi> if they were extraordinary
+priviledges belonging to them as Lords, it ar<g ref="char:EOLhyphen"/>gues then they had them not without this grant, upon
+the ſcore of their dignity and Title, which is as much as we expect
+<pb n="48" facs="tcp:33768:28"/>to have granted us, and then it muſt needs fol<g ref="char:EOLhyphen"/>low, that their priviled<g ref="char:EOLhyphen"/>ges
+are grounded upon a parliamentary capaci<g ref="char:EOLhyphen"/>ty, and not upon a meer Title.</p>
+               <p>In the laſt words there<g ref="char:EOLhyphen"/>fore of the Act this is clearly expreſt, <hi>That no Peer of this
+land not be<g ref="char:EOLhyphen"/>ing elested, qualified, and ſitting in Pariiament, ſhall claim, have or make uſe
+of any priviledge of Parliament, either in re<g ref="char:EOLhyphen"/>lation to his perſon, qua<g ref="char:EOLhyphen"/>lity or Eſtate, any
+Law, <g ref="char:V">Ʋ</g>ſage or cuſtome to the
+<pb n="49" facs="tcp:33768:28"/>contrary notwithſtanding.</hi>
+               </p>
+               <p>The Objections were ſo frivolous, that were made in this caſe, that men even of ordinary
+capacity and reaſon would nauſeat them as ſlight, and too light to weigh a grain in the
+ſcales that Juſtice holds in her hands, and I purpoſely omit them as not worthy to trou<g ref="char:EOLhyphen"/>ble
+the READER far<g ref="char:EOLhyphen"/>ther.</p>
+               <p>As likewiſe I wave o<g ref="char:EOLhyphen"/>ther Arguments copi<g ref="char:EOLhyphen"/>ous and ſtrong, upon the <hi>Subject,</hi> and upon
+
+<pb n="50" facs="tcp:33768:29"/>the <hi>matter,</hi> and upon the end of the Statute of <hi>Ric.</hi> the
+ſecond, to prove that theſe pretended words, (if they had been ſpoken) yet could not be
+comprehended under that Statute.</p>
+               <gap reason="missing" extent="1 page">
+                  <desc>〈1 page missing〉</desc>
+               </gap>
+               <pb n="51" facs="tcp:33768:29"/>
+               <p>But theſe perhaps will be thought clear and ſufficient enough to con<g ref="char:EOLhyphen"/>vince that this
+Judge<g ref="char:EOLhyphen"/>ment was unjuſtly given, and cruelly executed; which I leave to the Lord to redreſs in
+his time, be<g ref="char:EOLhyphen"/>ſeeching him of his won<g ref="char:EOLhyphen"/>ted grace to give us all joy and patience in
+ſuf<g ref="char:EOLhyphen"/>fering.</p>
+            </div>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
